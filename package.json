@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-startup",
+  "version": "1.0.0",
+  "description": "discord.js on Heroku",
+  "main": "discordbot.js",
+  "scripts": {
+    "start": "node discordbot.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiscordBotPortalJP/discordjs-startup.git"
+  },
+  "author": "Discord Bot Portal JP",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
