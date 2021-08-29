@@ -7,6 +7,9 @@
 ### discordbot.js
 JavaScriptによるDiscordBotのアプリケーションファイルです。
 
+### .env.template
+環境変数を記載するファイルのテンプレートです。.envという名前でコピーして使用します。
+
 ### package.json
 このリポジトリの設定ファイルです。
 
